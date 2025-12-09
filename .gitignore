@@ -12,6 +12,12 @@ dist
 dist-ssr
 *.local
 
+# Tauri bundles / installers
+*.AppImage
+*.dmg
+*.msi
+*.exe
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
