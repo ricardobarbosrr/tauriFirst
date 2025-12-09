@@ -34,9 +34,12 @@
   },
   "plugins": {
     "updater": {
-      "active": false,
+      "active": true,
       "dialog": true,
-      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDQ3NkM4MDQ0OTQzQjZDOUIKUldTYmJEdVVSSUJzUjRrL29ubDlXdTYvTDFnRWM3ZmxYRUJnU0hObzg1UG5XMkNGVHhMSTc0V08K"
+      "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDQ3NkM4MDQ0OTQzQjZDOUIKUldTYmJEdVVSSUJzUjRrL29ubDlXdTYvTDFnRWM3ZmxYRUJnU0hObzg1UG5XMkNGVHhMSTc0V08K",
+      "endpoints": [
+        "https://github.com/ricardobarbosrr/tauriFirst/releases/download/latest/latest.json"
+      ]
     }
   }
 }
