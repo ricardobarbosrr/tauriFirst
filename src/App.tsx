@@ -418,5 +418,5 @@ function App() {
   );
 }
 
-//vlw v0w samp
+//vlw v0w samp.
 export default App;
